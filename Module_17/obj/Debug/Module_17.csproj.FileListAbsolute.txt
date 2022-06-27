@@ -1,0 +1,38 @@
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\bin\Debug\Module_17.exe.config
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\bin\Debug\Module_17.exe
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\bin\Debug\Module_17.pdb
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\Module_17.csproj.AssemblyReference.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\Module_17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\MainWindow.g.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\App.g.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\Module_17_MarkupCompile.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\Module_17_MarkupCompile.lref
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\MainWindow.baml
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\Module_17.g.resources
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\Module_17.Properties.Resources.resources
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\Module_17.csproj.GenerateResource.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\Module_17.csproj.CoreCompileInputs.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\Module_17.exe
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Module_17\obj\Debug\Module_17.pdb
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\bin\Debug\Module_17.exe.config
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\bin\Debug\Module_17.exe
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\bin\Debug\Module_17.pdb
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Module_17.csproj.AssemblyReference.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Module_17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\MainWindow.g.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\App.g.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Module_17_MarkupCompile.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Module_17_MarkupCompile.lref
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\MainWindow.baml
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Module_17.g.resources
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Module_17.Properties.Resources.resources
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Module_17.csproj.GenerateResource.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Module_17.csproj.CoreCompileInputs.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Module_17.exe
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Module_17.pdb
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\AddClients.g.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\AddClients.baml
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\AddProduct.g.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\AddProduct.baml
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Orders.g.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Module_17\obj\Debug\Orders.baml
